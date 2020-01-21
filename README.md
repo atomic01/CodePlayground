@@ -11,6 +11,3 @@ You can view the code and you can also run it on links below, which I have set u
  http://todolistapp.epizy.com/locastic/Prvi%20dio/index6.php
  http://todolistapp.epizy.com/locastic/Prvi%20dio/index7.php
  http://todolistapp.epizy.com/locastic/Prvi%20dio/index8.php
- 
- DataScienece directory has some materials that were tought at MMU Advanced Computer Science course.
- It is mostly python using Anaconda framework and Jupyter notebook.
