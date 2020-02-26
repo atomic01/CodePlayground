@@ -13,6 +13,7 @@ def generate_pi(number_of_dots):
         dots_in_total += 1
 
     pi = 4 * dots_in_the_circle / dots_in_total
+    
     # here is the math and reasoning behind it... 
     # if you have the 1st quadrant in the coordinate system and a range of 0 to 1 that you fill with dots using x and y coordinates
     # you will get a perfect square given enough dots, now you expand from 1 quadrant to 4 quadrants and draw a circle with the
@@ -26,14 +27,18 @@ def generate_pi(number_of_dots):
     #                pi = 4 * number of dots in the circle / total dots
     # to determine if the dot is in the circle you use pitagoras theorem on its coordinates and it has to be smaller than the radius
     # which is 1, also it is critical to use the RANDOM UNIFORM distribution
+    
     return pi
 
 
 # the higher the n the higer teh precision, however it takes longer to compute
+
 n = 10000000
 result = generate_pi(n)
 print(result)
 
+# in the picture belww ',' represents dots in the circle and ':' represents dots outside the circle
+# the sum of ',' is the area of the circle, and the sum of ',' and ':' area of the square
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 # MMMMMMMMMMM::::::::::::::::::?MMI,,,,,,NM,,,,,,MMM::::::::::::::::::~MMMMMMMMMMM
