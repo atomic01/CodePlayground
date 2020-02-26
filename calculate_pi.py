@@ -33,3 +33,44 @@ def generate_pi(number_of_dots):
 n = 10000000
 result = generate_pi(n)
 print(result)
+
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMM::::::::::::::::::?MMI,,,,,,NM,,,,,,MMM::::::::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::::::::::MM,,,,,,,,,,,,,,,,,,,,,,,IM8::::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::::::OM:,,,,,,,,,,,,,,,,,,,,,,,,,,,,$M,:::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::::MN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M=:::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::IM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:M::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::M.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DZ::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::~M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::+M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:::~MMMMMMMMMMM
+# MMMMMMMMMMM:::M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M::~MMMMMMMMMMM
+# MMMMMMMMMMM:~M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,=N:~MMMMMMMMMMM
+# MMMMMMMMMMM:D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:~MMMMMMMMMMM
+# MMMMMMMMMMM:M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMM:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,NM,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMMD:::::::::::::::::::::::::?MMM~::::::::::::::::::::::::$MMMMMMMMMMMM
+# MMMMMMMMMMM$,,,,,,,,,,,,,,,,,,,,,,,,,,,:Z,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ON,:,,,N,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,$,,Z,I,,,,,,,,,,,,,,,,,,NMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
+# MMMMMMMMMMM:N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
+# MMMMMMMMMMM:M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:~MMMMMMMMMMM
+# MMMMMMMMMMM:~M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:M:~MMMMMMMMMMM
+# MMMMMMMMMMM::=$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M::~MMMMMMMMMMM
+# MMMMMMMMMMM:::87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:::~MMMMMMMMMMM
+# MMMMMMMMMMM::::M~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::$8:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::MO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~:::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::::M+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M8:::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::::::~M7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MO~::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::::::::~7M?,,,,,,,,,,,,,,,,,,,,,,,,MM~:::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::::::::::::~MM~,,,,,,,,I,,,,,,,MMM:::::::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
