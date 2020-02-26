@@ -37,11 +37,13 @@ n = 10000000
 result = generate_pi(n)
 print(result)
 
+# imagine the circle being normal, not this failed circle that I've drawn
+
 # in the picture belww ',' represents dots in the circle and ':' represents dots outside the circle
 # the sum of ',' is the area of the circle, and the sum of ',' and ':' area of the square
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-# MMMMMMMMMMM::::::::::::::::::?MMI,,,,,,NM,,,,,,MMM::::::::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM::::::::::::::::::?MMI,,,,,,,,,,,,,,MMM::::::::::::::::::~MMMMMMMMMMM
 # MMMMMMMMMMM:::::::::::::::MM,,,,,,,,,,,,,,,,,,,,,,,IM8::::::::::::::~MMMMMMMMMMM
 # MMMMMMMMMMM::::::::::::OM:,,,,,,,,,,,,,,,,,,,,,,,,,,,,$M,:::::::::::~MMMMMMMMMMM
 # MMMMMMMMMMM::::::::::MN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M=:::::::::~MMMMMMMMMMM
@@ -58,11 +60,11 @@ print(result)
 # MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NMMMMMMMMMMM
 # MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
 # MMMMMMMMMMM:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
-# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,NM,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
-# MMMMMMMMMMMMD:::::::::::::::::::::::::?MMM~::::::::::::::::::::::::$MMMMMMMMMMMM
-# MMMMMMMMMMM$,,,,,,,,,,,,,,,,,,,,,,,,,,,:Z,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
-# MMMMMMMMMMMD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ON,:,,,N,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
-# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D,$,,Z,I,,,,,,,,,,,,,,,,,,NMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMM$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NMMMMMMMMMMM
 # MMMMMMMMMMMM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
 # MMMMMMMMMMM:N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M~MMMMMMMMMMM
 # MMMMMMMMMMM:M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M:~MMMMMMMMMMM
@@ -76,6 +78,6 @@ print(result)
 # MMMMMMMMMMM::::::::::M+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,M8:::::::::~MMMMMMMMMMM
 # MMMMMMMMMMM:::::::::::~M7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MO~::::::::::~MMMMMMMMMMM
 # MMMMMMMMMMM:::::::::::::~7M?,,,,,,,,,,,,,,,,,,,,,,,,MM~:::::::::::::~MMMMMMMMMMM
-# MMMMMMMMMMM:::::::::::::::::~MM~,,,,,,,,I,,,,,,,MMM:::::::::::::::::~MMMMMMMMMMM
+# MMMMMMMMMMM:::::::::::::::::~MM,,,,,,,,,,,,,,,,,MMM:::::::::::::::::~MMMMMMMMMMM
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 # MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
