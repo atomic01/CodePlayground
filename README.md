@@ -16,4 +16,4 @@ You can view the code and you can also run it on links below, which I have set u
  http://todolistapp.epizy.com/locastic/Prvi%20dio/index8.php
 
 ## Calculate_pi
-Is a small python program which calculates the number pi(3.1415...) from a random uniform distribut of numbers in range(0,1). There is also an explaination alongside the code.
+Is a small python program which calculates the number pi(3.14159...) from a random uniform distribut of numbers in range(0,1). There is also an explaination alongside the code.
