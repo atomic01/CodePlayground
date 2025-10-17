@@ -23,7 +23,7 @@ Each script or notebook explores a specific programming concept, algorithm, or l
 - These projects are **independent experiments**, not production code.  
 - Useful for demonstrating algorithmic thinking, ML experimentation, and general coding practice.  
 - More polished academic work can be found in:  
-  - [DeepRL-IntermittentControl](https://github.com/atomic01/DeepRL-IntermittentControl)  
+  - [ICRL-Agent](https://github.com/atomic01/ICRL-Agent)  
   - [AStar-MazeSolver](https://github.com/atomic01/AStar-MazeSolver)
 
 ---
