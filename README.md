@@ -29,6 +29,6 @@ Each script or notebook explores a specific programming concept, algorithm, or l
 ---
 
 ## 🧰 Tech Stack
-Python • Jupyter • NumPy • TensorFlow • OpenCV • C / C++
+Python • Jupyter • NumPy • TensorFlow • OpenCV • C
 
 ---
