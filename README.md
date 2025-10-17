@@ -14,8 +14,8 @@ Each script or notebook explores a specific programming concept, algorithm, or l
 | **fish_and_chip_shop_simulator** | Modular C ordering system test app. | C |
 | **calculate_pi.py** | Monte Carlo simulation that estimates the value of π using random sampling. | Python |
 | **caltech256_nn_model.ipynb** | Jupyter notebook implementing a convolutional neural network for Caltech-256 image classification. | Python |
-| **maze_solver_q_learning.ipynb** | Maze-solving environment using Q-Learning and NumPy. | Python |
 | **maze_solver_dqn_with_ic.py** | Deep Q-Network with Intermittent Control used for reinforcement-learning to solve a maze. | Python |
+| **maze_solver_q_learning.ipynb** | Maze-solving environment using Q-Learning and NumPy. | Python |
 
 ---
 
