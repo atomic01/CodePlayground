@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Orion\source\repos\ss\Source.c(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Orion\source\repos\ss\Source.c(19,21): warning C4018: '<': signed/unsigned mismatch
+  Convert_green_in_BMP_to_blue.vcxproj -> C:\Users\Orion\source\repos\ss\Debug\Convert_green_in_BMP_to_blue.exe
